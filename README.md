@@ -8,7 +8,7 @@ This is a Spark streaming program that streams data from a file source(e.g CSV, 
 
 To demonstrate a simple Spark streaming with aggregation using PySpark.
 
-![spark_streaming](files/assets/spark_streaming.png)
+![spark_streaming](assets/spark_streaming.png)
 
 >- Used the Python Faker library to produce fake data files (CSV, JSON) which is populated to a source destination at intervals set with the built-in python time module.
 
